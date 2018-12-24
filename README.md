@@ -12,8 +12,7 @@ First, download [HDF5](https://support.hdfgroup.org/HDF5/release/obtain518.html)
 Then install [OpenCV](https://github.com/opencv/opencv), [TensorFlow](https://www.tensorflow.org/).
 
 # Usage
-Visualisation not implemented, model outputs faces prediction as array. Code-only.
-Note: hdf5 file is not available here as its slightly exceed limit 100 mb
+Read .exe usage message. 
 
 # Why?
 
