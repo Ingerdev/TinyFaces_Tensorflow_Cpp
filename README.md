@@ -1,5 +1,6 @@
 # Tiny_Faces_In_Tensorflow_Cpp
 TinyFaces C++ implementation  based on  python tensorflow version.
+Note that this repository is copy of [main repository](https://bitbucket.org/ingerdev/tinyfacemodel) and may not affect latest changes. 
 # Tiny Face Detector in TensorFlow
 
  A TensorFlow port(inference only) of Tiny Face Detector from [authors' MatConvNet codes](https://github.com/peiyunh/tiny)[1].
